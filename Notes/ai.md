@@ -1,7 +1,7 @@
  # <p align="center">Assignment Questions</p>
 
 #  <p align="center">SET - 1</p>
-# Q1. Explain in detail about Temporal Model.
+## Q1. Explain in detail about Temporal Model.
 
 A temporal model in AI is like a smart system that's really good at understanding and predicting things that happen over time. Imagine you have a list of events, and each event is connected to the one before it. These models are like super detectives that look at the past events, figure out the patterns and trends, and then use that knowledge to make educated guesses about what might happen next.
 
@@ -57,7 +57,7 @@ In summary, temporal models are crucial for understanding and predicting time-de
 <hr>
 <hr>
 
-# Q2. Outline MDP formulation with Grid World Problem.
+## Q2. Outline MDP formulation with Grid World Problem.
 
 
 ## Grid World Problem and MDP Basics
@@ -119,7 +119,7 @@ In summary, temporal models are crucial for understanding and predicting time-de
 <hr>
 <hr>
 
-# Q3. Illustrate about Value Iteration. 
+## Q3. Illustrate about Value Iteration. 
 
 
 ## What is Value Iteration?
@@ -161,7 +161,7 @@ Value Iteration is like our character getting better at the game by learning fro
 <hr>
 <hr>
 
-# Q4. Explain in detail about Direct Utility Estimation with an example. 
+## Q4. Explain in detail about Direct Utility Estimation with an example. 
 
 
 ## What is Direct Utility Estimation?
@@ -214,7 +214,7 @@ Direct Utility Estimation is like looking at our past experiences, assigning val
 <hr>
 <hr>
 
-# Q5. Discuss in detail about Q - Learning.
+## Q5. Discuss in detail about Q - Learning.
 
 
 ## What is Q-Learning?
@@ -270,7 +270,7 @@ Q-Learning is like guiding our character to make smart decisions in a game. It l
 
 # <p align="center">SET - 2</p>
 
-# Q1. Explain in detail about Hidden Markov Model.
+## Q1. Explain in detail about Hidden Markov Model.
 
 
 ## What is a Hidden Markov Model?
@@ -309,7 +309,7 @@ Imagine we're trying to predict the weather. The states could be different weath
 Hidden Markov Model is like a storytelling math wizard. It helps us understand and predict things by learning from mysterious clues, even when we can't see everything directly.
 
 
-# Q2. Discuss about Utility Theory and its Axioms.
+## Q2. Discuss about Utility Theory and its Axioms.
 
 
 ## What is Utility Theory?
@@ -355,7 +355,7 @@ Let's say we have three snacks: apples, chocolate, and chips. Our utility for ea
 Utility Theory is like having a set of rules that guide us in making decisions based on what we like and value. The axioms ensure our choices are logical and consistent, making it a useful tool for decision making.
 
 
-# Q3. Illustrate in detail about POMDP.
+## Q3. Illustrate in detail about POMDP.
 
 ## Partially Observable Markov Decision Process (POMDP) 
 
@@ -411,7 +411,7 @@ Imagine a robot trying to navigate a room with obstacles. The robot can't see th
 
 Partially Observable Markov Decision Process is like solving a puzzle where some pieces are hidden. It guides decision-making in situations with uncertainties, helping us navigate through unknown scenarios.
 
-# Q4. Explain the approaches to implement Reinforcement Learning.   
+## Q4. Explain the approaches to implement Reinforcement Learning.   
 # Approaches to Implement Reinforcement Learning
 
 ## 1. Value Iteration
@@ -439,7 +439,7 @@ Policy Gradient Methods concentrate on determining the best strategy, or policy,
 In practice, Policy Gradient Methods gradually adjust the decision-making strategy based on experiences. This involves tweaking the policy to maximize rewards over time. It's akin to learning and adapting the decision-making approach to achieve better outcomes.
 
 
-# Q5. Discuss about Adaptive Dynamic Programming. 
+## Q5. Discuss about Adaptive Dynamic Programming. 
 
 ## What is Adaptive Dynamic Programming (ADP)?
 
@@ -554,7 +554,7 @@ In this scenario, the higher utility value of 9 for the Beach Resort indicates t
 Utility Functions are like decision-making assistants, turning our preferences into numbers to help us choose what makes us the happiest. By assigning values to options, we can make more objective and consistent decisions.
 
 
-# Q3. Illustrate in detail about Policy Iteration. 
+## Q3. Illustrate in detail about Policy Iteration. 
 
 # Policy Iteration Explained Simply
 
@@ -602,7 +602,7 @@ Imagine playing chess. Your policy is like your strategy for making moves. Polic
 Policy Iteration is like a continuous improvement process for decision-making. It refines the rules we follow to achieve the best outcomes, making it a powerful tool in the world of reinforcement learning.
 
 
-# Q4. Discuss about Temporal Difference Learning
+## Q4. Discuss about Temporal Difference Learning
 
 # Temporal Difference Learning Explained Simply
 
@@ -650,7 +650,7 @@ Imagine you are in a maze, and you earn points for finding your way. TD Learning
 Temporal Difference Learning is like learning from experiences in real-time, adjusting your understanding of what actions lead to better outcomes. It's a powerful method in reinforcement learning for making efficient and adaptive decisions.
 
 
-# Q5.  Explain in detail about Q - Learning. (refer set 1)
+## Q5.  Explain in detail about Q - Learning. (refer set 1)
 
 # <p align = "Center">Set - 4</p>
 
@@ -700,7 +700,7 @@ Let's say we want to understand the weather based on whether people are carrying
 
 Hidden Markov Model is like solving a puzzle where you can't see everything directly. It helps us make sense of hidden patterns by observing related things we can see, like people carrying umbrellas to understand the weather.
 
-# Q2. Discuss in detail about Axioms in Utility Theory with an example 
+## Q2. Discuss in detail about Axioms in Utility Theory with an example 
 - (for explanation refer set 2)
 
 ## Example: Ice Cream Choices
@@ -734,7 +734,7 @@ Let's consider a person choosing between two ice cream flavors: chocolate and va
 
 Axioms in Utility Theory are essential principles that guide decision-making, ensuring logical and consistent choices. Using the example of ice cream choices, we can see how these axioms help us understand and model preferences in everyday scenarios.
 
-# Q3. Illustrate in detail about Markov Decision Process with an example. 
+## Q3. Illustrate in detail about Markov Decision Process with an example. 
 
 # Markov Decision Process (MDP) Explained with an Example
 
@@ -805,7 +805,7 @@ Let's imagine a robot navigating through a grid-like environment. The robot can 
 Markov Decision Process is like a guide for decision-making in uncertain environments. The robot navigation example demonstrates how states, actions, transitions, and rewards come together to form a systematic approach for making decisions.
 
 
-# Q4. Summarize the Elements of Reinforcement Learning and applications of RL.
+## Q4. Summarize the Elements of Reinforcement Learning and applications of RL.
 
 # Elements of Reinforcement Learning
 
@@ -868,7 +868,7 @@ Reinforcement Learning finds applications in various fields due to its adaptabil
 
 Reinforcement Learning's versatility makes it a powerful tool in solving complex problems across different domains.
 
-# Q5. Explain in detail about SARSA and DQN.
+## Q5. Explain in detail about SARSA and DQN.
 
 
 # SARSA and DQN in AI - Explained Simply
